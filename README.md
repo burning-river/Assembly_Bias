@@ -5,11 +5,11 @@ This project aims to predict the occupancy of dark matter halos with a central a
 ![alt text](https://github.com/sxk1031/Assembly_Bias/blob/master/notebooks/DM_halo.jpeg)
 
 ## The questions that we are trying to answer are as follows:
-1. Given the properties of a dark matter halo, such as halo mass, rotational velocity, concentration, spin, etc., how well can one predict whether the halo will be occupied by a central galaxy. 
-2. Similarly, how well can halo properties predict the number of satellite galaxies. 
+1. Given the properties of a dark matter halo and its environment, such as halo mass, rotational velocity, concentration, spin, etc., how well can one predict whether the halo will be occupied by a central galaxy. 
+2. Similarly, how well can halo properties and environment predict the number of satellite galaxies. 
 3. We are also interested in determining which halo properties are the most important when predicting the occupancies.
 4. We compare the clustering of the original sample of galaxies and the machine learning predictions. Given a random galaxy in a location, clustering describes the probability that another galaxy will be found within a given distance.
-5. We compare the level of assembly bias in the original sample and the ML predictions.
+5. We compare the assembly bias in the original sample and the ML predictions. Assembly bias is the level at which the assembly history of the galaxies affects their clustering. 
 
 ## Data Source
 We are using halo data from the Millenium simulation: [link](http://gavo.mpa-garching.mpg.de/Millennium/). On the left hand column is provided a link to the various databases. We work with the Guo2010a data.
