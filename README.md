@@ -20,10 +20,4 @@ We are using halo data from the Millenium simulation: [link](http://gavo.mpa-gar
 ## Key results from ML
 1. We find that halo-mass, m<sub>vir</sub>, is the most important feature in determining the number of satellites of a central galaxy. This is expected and _confirms_ prior analytical studies. 
 2. For central galaxies though, we find that the maximum circular velocity of the halo, V<sub>max</sub>, is the most important feature in determining whether a halo will be occupied by a central galaxy or not. This is a _novel_ result.
-3. Unlike the traditional, computationally expensive ML technique which uses 75%-80% of the data for training, we use only _10%_ of satellite and central data (~400,000 instances each) for training. Despite the small training size, we recover the halo occupation distribution to an _extemely good precision_.
-![alt text](https://github.com/sxk1031/Assembly_Bias/blob/master/notebooks/avg_no_cent_all_1_20_10_200.jpg)
-![alt text](https://github.com/sxk1031/Assembly_Bias/blob/master/notebooks/avg_no_sat_all_1_10_1_300.jpg)
-4. To a _very good precision_, we also recover the galaxy assembly bias and clustering signal.  
-![alt text](https://github.com/sxk1031/Assembly_Bias/blob/master/notebooks/cent_gab.jpg)
-![alt text](https://github.com/sxk1031/Assembly_Bias/blob/master/notebooks/cent_sat_gab.jpg)
  
