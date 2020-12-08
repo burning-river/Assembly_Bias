@@ -20,4 +20,4 @@ We are using halo data from the Millenium simulation: [link](http://gavo.mpa-gar
 ## Key results from ML
 1. We find that halo-mass, m<sub>vir</sub>, is the most important feature in determining the number of satellites of a central galaxy. This is expected and _confirms_ prior analytical studies. 
 2. For central galaxies though, we find that the maximum circular velocity of the halo, V<sub>max</sub>, is the most important feature in determining whether a halo will be occupied by a central galaxy or not. This is a _novel_ result.
- 
+3. As shown in the notebook, we recover the HOD signal extremely well. The clustering signal was also recovered extremely well at the level of 99.8% for centrals and 99.6% for both centrals and satellites. Similarly, the GAB signal is recovered to 98% for centrals and centrals and satellites. 
