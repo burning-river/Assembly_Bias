@@ -1,5 +1,18 @@
 # Galaxy Assembly Bias
 
+## Project Organization
+```
+.
+├── README.md
+├── draft		: Contains plots for paper and notes
+│   ├── Plots
+│   ├── draft.pdf
+├── notebooks		: Contains Jupyter notebook
+│   ├── prediction.ipynb
+└── output		: Contains predictions
+```
+3 directories
+
 This project aims to predict the occupancy of dark matter halos with a central and satellite galaxies. Shown below is an illustration of a dark matter halo: a spherical region in the universe which contains dark matter. The diffuse, bluish glow is the dark matter halo. The spiral galaxy in the center is a central galaxy. The smaller blue dots are sub-halos that contain the satellite galaxies of the central.    
 
 ![alt text](https://github.com/sxk1031/Assembly_Bias/blob/master/notebooks/DM_halo.jpeg)
